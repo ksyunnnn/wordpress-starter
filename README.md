@@ -13,3 +13,7 @@ GRANT ALL PRIVILEGES ON mywordpress.* TO myuser@localhost IDENTIFIED BY 'mypass'
 ```
 
 access http://localhost:8080
+
+## 参考
+
+https://utano.jp/entry/2014/11/vagrant_guest_additions_update_error/
